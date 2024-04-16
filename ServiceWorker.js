@@ -1,9 +1,9 @@
 const cacheName = "SPEC Studio-Rhythm-1.0";
 const contentToCache = [
-    "Build/Rhythm.loader.js",
-    "Build/Rhythm.framework.js",
-    "Build/Rhythm.data",
-    "Build/Rhythm.wasm",
+    "Build/Rhythm WebGL.loader.js",
+    "Build/Rhythm WebGL.framework.js",
+    "Build/Rhythm WebGL.data",
+    "Build/Rhythm WebGL.wasm",
     "TemplateData/style.css"
 
 ];
