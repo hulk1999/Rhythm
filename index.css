@@ -1,0 +1,23 @@
+#pw-container {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #231F20;
+}
+
+.pw_prompt {
+    position:fixed;
+    left: 50%;
+    top: 20px;
+    margin-left:-200px;
+    padding:15px;
+    width:200px;
+}
+
+#unity-container{
+    width: 0;
+    height: 0;
+    overflow: hidden;
+}
