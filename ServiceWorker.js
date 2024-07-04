@@ -1,4 +1,4 @@
-const cacheName = "SPEC Studio-Rhythm-1.0";
+const cacheName = "SPECStudio-60BPM-1.0";
 const contentToCache = [
     "Build/Rhythm WebGL.loader.js",
     "Build/Rhythm WebGL.framework.js",
