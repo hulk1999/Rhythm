@@ -18,6 +18,7 @@ input.addEventListener("keyup", function(e) {
     	unityContainer.style.width = "100%";
     	unityContainer.style.height = "100%";
     	unityContainer.style.overflow = "visible";
+        input.remove();
     }
 }, false);
 prompt.appendChild(input);
