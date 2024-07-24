@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1638979177
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: coffee
+      Dependencies: {}
+    Info_1:
+      Name: galaxy
+      Dependencies: {}
+    Info_2:
+      Name: shooting
+      Dependencies: {}
+    Info_3:
+      Name: vending
+      Dependencies: {}
