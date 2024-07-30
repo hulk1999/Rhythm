@@ -1,8 +1,17 @@
 /*
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>60 BPM</title>
+    <link rel="shortcut icon" href="TemplateData/corgi.png">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <link rel="manifest" href="manifest.webmanifest">
     <link rel="stylesheet" href="index.css">
     <div id="pw-container"></div>
     <script src="sha256.min.js"></script>
     <script src="index.js"></script>
+  </head>
+  <body>
 */
 //console.log(sha256("abc"));
 
