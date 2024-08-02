@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 384023038
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: acf69c66481c3b57102e5d00d9404a58
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 04fe97b7fc2f56a12f72365bd4c81609
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: acf69c66481c3b57102e5d00d9404a58
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameMusic/Medley/Medley4.csv
+- Assets/GameMusic/Medley/Medley4.flac
+Dependencies: []

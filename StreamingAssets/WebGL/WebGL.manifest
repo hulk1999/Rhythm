@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 351231484
+CRC: 1954398991
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -13,4 +13,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_3:
       Name: vending
+      Dependencies: {}
+    Info_4:
+      Name: medley
       Dependencies: {}
