@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 301072193
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9dd989cd7f9c76e658d63c5b53f7196
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 04fe97b7fc2f56a12f72365bd4c81609
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c9dd989cd7f9c76e658d63c5b53f7196
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameMusic/Shooting2/Shooting7.csv
+- Assets/GameMusic/Shooting2/Shooting6.csv
+- Assets/GameMusic/Shooting2/Shooting7.wav
+- Assets/GameMusic/Shooting2/Shooting6.wav
+Dependencies: []

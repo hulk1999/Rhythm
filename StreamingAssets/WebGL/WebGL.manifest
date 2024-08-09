@@ -1,19 +1,31 @@
 ManifestFileVersion: 0
-CRC: 3803634695
+CRC: 17492753
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: coffee
+      Name: coffee1
       Dependencies: {}
     Info_1:
-      Name: galaxy
+      Name: coffee2
       Dependencies: {}
     Info_2:
-      Name: shooting
+      Name: galaxy1
       Dependencies: {}
     Info_3:
-      Name: vending
+      Name: galaxy2
       Dependencies: {}
     Info_4:
-      Name: medley
+      Name: medley1
+      Dependencies: {}
+    Info_5:
+      Name: shooting1
+      Dependencies: {}
+    Info_6:
+      Name: shooting2
+      Dependencies: {}
+    Info_7:
+      Name: vending1
+      Dependencies: {}
+    Info_8:
+      Name: vending2
       Dependencies: {}
