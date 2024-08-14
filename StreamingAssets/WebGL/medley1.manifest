@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3244516093
+CRC: 1181354810
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: be548221be6110e4e5a2e133642bab79
+    Hash: c2acfcdbc89e25ed8bec4431c9bc6b64
   TypeTreeHash:
     serializedVersion: 2
     Hash: 04fe97b7fc2f56a12f72365bd4c81609
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: be548221be6110e4e5a2e133642bab79
+    Hash: c2acfcdbc89e25ed8bec4431c9bc6b64
 HashAppended: 0
 ClassTypes:
 - Class: 49
@@ -18,6 +18,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/GameMusic/Medley1/Medley4.mp3
 - Assets/GameMusic/Medley1/Medley4.csv
-- Assets/GameMusic/Medley1/Medley4.flac
 Dependencies: []
