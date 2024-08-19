@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4081814522
+CRC: 1276847170
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ee0018d0a3c9d1037732d496f93f2ac7
+    Hash: b98d34ee147e8d79d62ba672e1808b8e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 04fe97b7fc2f56a12f72365bd4c81609
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ee0018d0a3c9d1037732d496f93f2ac7
+    Hash: b98d34ee147e8d79d62ba672e1808b8e
 HashAppended: 0
 ClassTypes:
 - Class: 49
@@ -18,7 +18,9 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/GameMusic/Shooting1/Shooting2.mp3
 - Assets/GameMusic/Shooting1/Shooting3.csv
+- Assets/GameMusic/Shooting1/Shooting2.csv
 - Assets/GameMusic/Shooting1/Shooting1.csv
 - Assets/GameMusic/Shooting1/Shooting3.mp3
 - Assets/GameMusic/Shooting1/Shooting5.csv
