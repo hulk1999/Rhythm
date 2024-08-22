@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1171007500
+CRC: 1777663081
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f3c8dd1729c3984a4a80b3a730831ba4
+    Hash: acb249f7e6b207efce783709f03fbb06
   TypeTreeHash:
     serializedVersion: 2
     Hash: 04fe97b7fc2f56a12f72365bd4c81609
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: f3c8dd1729c3984a4a80b3a730831ba4
+    Hash: acb249f7e6b207efce783709f03fbb06
 HashAppended: 0
 ClassTypes:
 - Class: 49
@@ -18,11 +18,13 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/GameMusic/Galaxy1/Galaxy2.mp3
 - Assets/GameMusic/Galaxy1/Galaxy3.csv
 - Assets/GameMusic/Galaxy1/Galaxy4.csv
 - Assets/GameMusic/Galaxy1/Galaxy1.csv
 - Assets/GameMusic/Galaxy1/Galaxy4.mp3
 - Assets/GameMusic/Galaxy1/Galaxy3.mp3
+- Assets/GameMusic/Galaxy1/Galaxy2.csv
 - Assets/GameMusic/Galaxy1/Galaxy5.mp3
 - Assets/GameMusic/Galaxy1/Galaxy5.csv
 Dependencies: []
