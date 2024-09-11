@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 970621496
+CRC: 3665070771
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1e93adc8257256d45be976b655b4a1f0
+    Hash: 8fe499c037aaf8c15b83749610c2344d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 04fe97b7fc2f56a12f72365bd4c81609
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1e93adc8257256d45be976b655b4a1f0
+    Hash: 8fe499c037aaf8c15b83749610c2344d
 HashAppended: 0
 ClassTypes:
 - Class: 49
@@ -19,9 +19,13 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/GameMusic/Coffee2/Coffee6.mp3
+- Assets/GameMusic/Coffee2/Coffee10.csv
 - Assets/GameMusic/Coffee2/Coffee8.csv
+- Assets/GameMusic/Coffee2/Coffee9.csv
+- Assets/GameMusic/Coffee2/Coffee10.mp3
 - Assets/GameMusic/Coffee2/Coffee7.mp3
 - Assets/GameMusic/Coffee2/Coffee6.csv
 - Assets/GameMusic/Coffee2/Coffee7.csv
 - Assets/GameMusic/Coffee2/Coffee8.mp3
+- Assets/GameMusic/Coffee2/Coffee9.mp3
 Dependencies: []

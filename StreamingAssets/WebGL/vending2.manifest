@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2458492508
+CRC: 1113613555
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5b6a1439d62c0f6bc5429e1be44bf807
+    Hash: 6c05f9f6de20935e0a5647962535959c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 04fe97b7fc2f56a12f72365bd4c81609
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5b6a1439d62c0f6bc5429e1be44bf807
+    Hash: 6c05f9f6de20935e0a5647962535959c
 HashAppended: 0
 ClassTypes:
 - Class: 49
@@ -18,10 +18,12 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/GameMusic/Vending2/Vending10.mp3
 - Assets/GameMusic/Vending2/Vending8.mp3
 - Assets/GameMusic/Vending2/Vending9.mp3
 - Assets/GameMusic/Vending2/Vending6.mp3
 - Assets/GameMusic/Vending2/Vending7.csv
+- Assets/GameMusic/Vending2/Vending10.csv
 - Assets/GameMusic/Vending2/Vending8.csv
 - Assets/GameMusic/Vending2/Vending9.csv
 - Assets/GameMusic/Vending2/Vending7.mp3
