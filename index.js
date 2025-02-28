@@ -22,7 +22,7 @@ var input = document.createElement("input");
 input.type = "password";
 input.style.fontSize = "24px";
 input.addEventListener("keyup", function(e) {
-    if (e.keyCode == 13 && sha256(input.value) == "70c9e03a8e9c9828baa3db65da6c2deabb5aee999dc8b6cc8eaef52cf48faa9a"){
+    if (e.keyCode == 13 && sha256(input.value) == "060e33205a731400c2eb92bc12cf921a4e44cf1851d216f144337dd6ec5350a7"){
     	var unityContainer = document.getElementById("unity-container");
     	unityContainer.style.width = "100%";
     	unityContainer.style.height = "100%";
